@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Bear Financials</title>
-    <link href="https://murango.github.io/feed.xml" rel="self" />
-    <link href="https://murango.github.io" />
+    <link href="https://blog.bearfinancials.com/feed.xml" rel="self" />
+    <link href="https://blog.bearfinancials.com" />
     <updated>2025-08-07T11:35:06+03:00</updated>
     <author>
         <name>Bear Financials</name>
     </author>
-    <id>https://murango.github.io</id>
+    <id>https://blog.bearfinancials.com</id>
 
     <entry>
         <title>Your Turn to Win With Budgeting</title>
         <author>
             <name>Bear Financials</name>
         </author>
-        <link href="https://murango.github.io/your-turn-to-win-with-budgeting/"/>
-        <id>https://murango.github.io/your-turn-to-win-with-budgeting/</id>
+        <link href="https://blog.bearfinancials.com/your-turn-to-win-with-budgeting/"/>
+        <id>https://blog.bearfinancials.com/your-turn-to-win-with-budgeting/</id>
             <category term="Personal Growth"/>
             <category term="Personal Finance"/>
             <category term="Goals"/>
