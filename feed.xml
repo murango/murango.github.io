@@ -3,7 +3,7 @@
     <title>Bear Financials</title>
     <link href="https://murango.github.io/feed.xml" rel="self" />
     <link href="https://murango.github.io" />
-    <updated>2025-08-07T10:12:39+03:00</updated>
+    <updated>2025-08-07T11:35:06+03:00</updated>
     <author>
         <name>Bear Financials</name>
     </author>
@@ -14,8 +14,13 @@
         <author>
             <name>Bear Financials</name>
         </author>
-        <link href="https://murango.github.io/your-turn-to-win-with-budgeting.html"/>
-        <id>https://murango.github.io/your-turn-to-win-with-budgeting.html</id>
+        <link href="https://murango.github.io/your-turn-to-win-with-budgeting/"/>
+        <id>https://murango.github.io/your-turn-to-win-with-budgeting/</id>
+            <category term="Personal Growth"/>
+            <category term="Personal Finance"/>
+            <category term="Goals"/>
+            <category term="Debt Management"/>
+            <category term="Bills"/>
 
         <updated>2025-08-07T10:12:39+03:00</updated>
             <summary>
