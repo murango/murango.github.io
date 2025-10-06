@@ -3,7 +3,7 @@
     <title>Bear Financials</title>
     <link href="https://blog.bearfinancials.com/feed.xml" rel="self" />
     <link href="https://blog.bearfinancials.com" />
-    <updated>2025-10-06T13:29:09+03:00</updated>
+    <updated>2025-10-06T13:32:57+03:00</updated>
     <author>
         <name>Bear Financials</name>
     </author>
@@ -17,6 +17,8 @@
         <link href="https://blog.bearfinancials.com/everythings-a-win/"/>
         <id>https://blog.bearfinancials.com/everythings-a-win/</id>
         <media:content url="https://blog.bearfinancials.com/media/posts/92/shaurya-sagar-A4wa3SpyOsg-unsplash.jpg" medium="image" />
+            <category term="Strategy"/>
+            <category term="Personal Growth"/>
 
         <updated>2025-10-06T13:29:09+03:00</updated>
             <summary>
